@@ -4,6 +4,9 @@ HEROIC assessed the health and economic impacts of urban scale interventions to 
 
 HEROIC was a Wellcome Trust funded project that ran from 2020-2024, led by [Clare Heaviside](https://profiles.ucl.ac.uk/77627-clare-heaviside).
 
+## People
+...
+
 ## Publications
 
 1. Taylor J, Simpson C, Brousse O, Viitanen AK, Heaviside C. The potential of urban trees to reduce heat-related mortality in London. Environ Res Lett. 2024 Apr;19(5):054004. 
@@ -24,3 +27,6 @@ HEROIC was a Wellcome Trust funded project that ran from 2020-2024, led by [Clar
 16. Brousse O, Simpson CH, Kenway O, Martilli A, Krayenhoff ES, Zonato A, et al. Spatially-explicit correction of simulated urban air temperatures using crowd-sourced data. Journal of Applied Meteorology and Climatology [Internet]. 2023 Aug 30 [cited 2023 Sep 15];1(aop). Available from: https://journals.ametsoc.org/view/journals/apme/aop/JAMC-D-22-0142.1/JAMC-D-22-0142.1.xml
 17. Simpson C, Brousse O, Heaviside C. Multi-scale analysis of exposure to heat in Southeast England. In: EGU general assembly conference abstracts. 2023. p. EGU-13044. 
 18. Milojevic A, Brousse O, Simpson C, Wilkinson P, Grellier J, Davies M, et al. Heat and cold impacts on mortality by local climate zone in london and south east, england. In: ISEE conference abstracts. 2023. 
+
+## Media coverage
+...
