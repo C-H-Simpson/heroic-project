@@ -33,9 +33,9 @@ HEROIC was a Wellcome Trust funded project that ran from 2020-2024, led by [Clar
 
 ## 2022 
 
-Mavrogianni A, Taylor J, Milojevic A, Oikonomou E, Heaviside C, Tsoulou I, Petrou G, Symonds P, Davies M, Wilkinson P (2022). Urban Overheating: Heat mitigation and the impact on health. In: Urban Overheating and Impact on Health: An Introduction Springer, Singapore 171-180 
-Mavrogianni A, Taylor J, Milojevic A, Oikonomou E, Heaviside C, Tsoulou I, Petrou G, Symonds P, Davies M, Wilkinson P (2022). Heat-related mortality in London. In: Urban Overheating and Impact on Health: An Introduction Springer, Singapore 171-180.  
-O Brousse, C Simpson, N Walker, et al. Evidence of horizontal urban heat advection in London using six years of data from a citizen weather station network Environmental Research Letters 17 (4), 044041 
+- Mavrogianni A, Taylor J, Milojevic A, Oikonomou E, Heaviside C, Tsoulou I, Petrou G, Symonds P, Davies M, Wilkinson P (2022). Urban Overheating: Heat mitigation and the impact on health. In: Urban Overheating and Impact on Health: An Introduction Springer, Singapore 171-180 k
+- Mavrogianni A, Taylor J, Milojevic A, Oikonomou E, Heaviside C, Tsoulou I, Petrou G, Symonds P, Davies M, Wilkinson P (2022). Heat-related mortality in London. In: Urban Overheating and Impact on Health: An Introduction Springer, Singapore 171-180.  
+- O Brousse, C Simpson, N Walker, et al. Evidence of horizontal urban heat advection in London using six years of data from a citizen weather station network Environmental Research Letters 17 (4), 044041 
 
 ## 2021 
 
